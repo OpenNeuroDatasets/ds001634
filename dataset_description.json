@@ -1,14 +1,7 @@
 {
-    "Name": "Visual working memory: Study one Task fMRI and Behavioural response",
-    "License": "Creative Commons Attribution 4.0 International (CC-BY 4.0)",
-    "Authors": [
-        "Adam Hampshire",
-        "Eyal Soreq"
-    ],
-    "Acknowledgements": "",
-    "HowToAcknowledge": "Eyal Soreq, Robert Leech & Adam Hampshire. Dynamic network coding of working-memory domains and working-memory processes. Accepted for publication in Nature Communications",
-    "Funding": "",
-    "ReferencesAndLinks": [],
-    "DatasetDOI": "10.18112/openneuro.ds001634.v1.0.1",
-    "BIDSVersion": ""
+    "title": "Visual working memory: Study of Task fMRI and Behavioural response",
+    "description": "Nineteen right-handed healthy adults (aged from 18-28 years old) participated in this study on the same 3 T MRI scanner. Axial 3D T1-weighted images were acquired as well as three runs of bold task MRI with the recording of their related behavorial data. Dataset DOI: 10.18112/openneuro.ds001634.v1.0.1 ",  
+    "authors": "Adam Hampshire, Eyal Soreq",
+    "licenses": "Creative Commons Attribution 4.0 International (CC-BY 4.0). To acknowledge, cite this publication: Eyal Soreq, Robert Leech & Adam Hampshire. Dynamic network coding of working-memory domains and working-memory processes. Nature Communications, (2019)10:936. ",
+    "contact": "e.soreq14@imperial.ac.uk"
 }
